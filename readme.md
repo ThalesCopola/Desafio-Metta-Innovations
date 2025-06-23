@@ -46,11 +46,11 @@ source venv/bin/activate
 
 ## Executando o projeto
 
- Rode a detecção
+ Rode a detecção:
 
  python detector.py sample/people-walking.mp4 4 
 
-Onde o número 4 é o limite de pessoas por frame para gerar alertas no arquivo `alerts.json`
+Onde o número 4 é o limite de pessoas por frame para gerar alertas no arquivo alerts.json
 
  E ao final rode a interface gráfica:
 
