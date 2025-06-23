@@ -1,6 +1,6 @@
 # Detecção de Pessoas com YOLOv8
 
-Esse projeto detecta pessoas em vídeos usando a rede neural YOLOv8 (pré-treinada). Ele gera um novo vídeo com as detecções desenhadas (caixas ao redor das pessoas), arquivos `.json` com contagem de pessoas e uma interface gráfica para visualizar tudo com gráfico.
+Esse projeto detecta pessoas em vídeos usando a rede neural YOLOv8 (pré-treinada). Ele gera um novo vídeo com as detecções desenhadas (caixas ao redor das pessoas), arquivos .json com contagem de pessoas e uma interface gráfica para visualizar tudo com gráfico.
 
 
 ## O que precisa
