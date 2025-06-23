@@ -26,6 +26,8 @@ No terminal, executa os comando abaixo:
 
 No Windows:
 
+ python -m venv venv
+
 venv\Scripts\activate
 
 No Linux/macOS:
